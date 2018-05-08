@@ -8,6 +8,7 @@
 	.st2{fill:#FFFFFF;}
 	.st3{font-family:'NotoMono';}
 	.st4{font-size:48px;}
+	.st5{fill:none;}
 </style>
 <g id="Layer_2">
 	<g id="Layer_2_1_">
@@ -20,7 +21,9 @@
 	<text transform="matrix(1 0 0 1 92.0999 768)" class="st2 st3 st4">Load Game</text>
 	<text transform="matrix(1 0 0 1 92.0999 648)" class="st2 st3 st4">New Game</text>
 	<text transform="matrix(1 0 0 1 92.1 890)" class="st2 st3 st4">Options</text>
-	<text transform="matrix(1 0 0 1 92.0998 1004)" class="st2 st3 st4">Exit Game</text>
+	<text transform="matrix(1 0 0 1 92.0998 1004)" class="st2 st3 st4">Credits</text>
 	<text transform="matrix(1 0 0 1 214.1 257.8672)" class="st2 st3 st4">Logo</text>
+	<rect x="93.7" y="1004" class="st5" width="240.9" height="94"/>
+	<text transform="matrix(1 0 0 1 93.6503 1136)" class="st2 st3 st4">Exit Game</text>
 </g>
 </svg>
