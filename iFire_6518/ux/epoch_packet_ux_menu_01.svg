@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2949.1 1555.2" style="enable-background:new 0 0 2949.1 1555.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EC9B5E;}
+	.st1{fill:#EC9B5E;stroke:#FFFFFF;stroke-width:20;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'NotoMono';}
+	.st4{font-size:48px;}
+</style>
+<g id="Layer_2">
+	<g id="Layer_2_1_">
+		<rect class="st0" width="2949.1" height="1555.2"/>
+	</g>
+</g>
+<g id="Layer_1">
+	<circle id="shape8" class="st1" cx="266" cy="230.4" r="173.9"/>
+	<text transform="matrix(1 0 0 1 92.1 517)" class="st2 st3 st4">Continue Game</text>
+	<text transform="matrix(1 0 0 1 92.0999 768)" class="st2 st3 st4">Load Game</text>
+	<text transform="matrix(1 0 0 1 92.0999 648)" class="st2 st3 st4">New Game</text>
+	<text transform="matrix(1 0 0 1 92.1 890)" class="st2 st3 st4">Options</text>
+	<text transform="matrix(1 0 0 1 92.0998 1004)" class="st2 st3 st4">Exit Game</text>
+	<text transform="matrix(1 0 0 1 214.1 257.8672)" class="st2 st3 st4">Logo</text>
+</g>
+</svg>
